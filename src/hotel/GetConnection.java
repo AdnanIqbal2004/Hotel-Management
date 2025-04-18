@@ -12,7 +12,7 @@ public class GetConnection {
 	{   
 	
 		String url,user,pwd;
-		url="jdbc:mysql://localhost/renaissance?serverTimezone=UTC";
+		url="jdbc:mysql://localhost:3306/hotelrelax";
 		user="root";
 		pwd="";
 	

@@ -1,17 +1,10 @@
 package hotel;
 
-
-
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 import javax.swing.JOptionPane;
-import javax.swing.table.DefaultTableModel;
-
-import java.sql.Statement;
-
 public class Customer {
 
 	int customerID;

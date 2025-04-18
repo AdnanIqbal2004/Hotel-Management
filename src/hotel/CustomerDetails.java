@@ -1,8 +1,5 @@
 package hotel;
 
-
-
-import java.awt.BorderLayout;
 import javax.swing.table.DefaultTableModel;
 import java.awt.EventQueue;
 
@@ -10,7 +7,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JLabel;
-import javax.swing.JCheckBox;
 import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;
 import java.awt.Font;
@@ -29,7 +25,7 @@ import javax.swing.ImageIcon;
 import java.awt.Color;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-//import net.proteanit.sql.DbUtils;
+
 
 public class CustomerDetails extends JFrame {
 
